@@ -1,0 +1,8 @@
+Simple Linear Regression
+
+y = b0 + b1*x1
+
+y -> dependent variable (dv)
+b0 -> constant
+b1 -> coefficient
+x1 -> independent variable (iv)
