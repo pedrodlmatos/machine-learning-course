@@ -1,0 +1,7 @@
+Feature scaling after split dataset to prevent data leaking
+
+Normalisation is recommended when we have a normal distribution of data
+Standardisation works well all the time
+
+Feature scaling doesn't apply to dummy variables (country matrix variables, e.g.)
+MANDATORY: use same scaler in both training set and test set
