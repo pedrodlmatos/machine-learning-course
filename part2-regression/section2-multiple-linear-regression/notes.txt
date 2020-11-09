@@ -1,0 +1,13 @@
+MULTIPLE LINEAR REGRESSION
+
+y = b0 + b1*x1 + b2*x2 + ... + bn*xn
+
+y = Dependent variable
+x1, x2, ..., xn -> independent variable
+b0 -> constant
+
+Dummy variables -> to deal with categorical variables
+Don't include all dummy variables on the multiple linear regression equation, omit always one.
+If we include all variables, we are duplicating (dummy variable trap)
+
+Don't need to apply feature scaling because coefficients will compensate
