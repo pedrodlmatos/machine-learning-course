@@ -1,0 +1,6 @@
+Oferece algum "movimento" ao modelo
+
+O erro dentro do tubo não é importante, mas os outsiders (elementos fora do tubo) são importantes e são representados
+como vetores (support vectors).
+
+Existe SVR linear (este model) e SRV não linear (classificador)
