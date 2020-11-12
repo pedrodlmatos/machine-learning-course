@@ -12,3 +12,4 @@ Notebooks com modelos de regressão desenvolvidos
  - [Support Vector Regression](section4-support-vector-regression/support_vector_regression.ipynb)
  - [Decision Trees Regression](section5-decision-tree-regression/decision_tree_regression.ipynb)
  - [Random Forest Regression](section6-random-forest-regression/random_forest_regression.ipynb)
+ - [Model Selection](section7-model-selection)

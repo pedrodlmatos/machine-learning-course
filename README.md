@@ -14,3 +14,4 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 4 - Support Vector Regression](part2-regression/section4-support-vector-regression/support_vector_regression.ipynb)
     - [Secção 5 - Decision Tree Regression](part2-regression/section5-decision-tree-regression/decision_tree_regression.ipynb)
     - [Secção 6 - Random Forest Regression](part2-regression/section6-random-forest-regression/random_forest_regression.ipynb)
+    - [Secção 7 - Model Selection](part2-regression/section7-model-selection)
