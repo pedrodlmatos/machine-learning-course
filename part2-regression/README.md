@@ -10,3 +10,5 @@ Notebooks com modelos de regressão desenvolvidos
  - [Multiple Linear Regression](section2-multiple-linear-regression/multiple_linear_regression.ipynb)
  - [Polynomial Linear Regression](section3-polynomial-linear-regression/polynomial_linear_regression.ipynb)
  - [Support Vector Regression](section4-support-vector-regression/support_vector_regression.ipynb)
+ - [Decision Trees Regression](section5-decision-tree-regression/decision_tree_regression.ipynb)
+ 

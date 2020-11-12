@@ -12,3 +12,4 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 2 - Regressão Múltipla Linear](part2-regression/section2-multiple-linear-regression/multiple_linear_regression.ipynb)
     - [Secção 3 - Regressão Polinomial Linear](part2-regression/section3-polynomial-linear-regression/polynomial_linear_regression.ipynb)
     - [Secção 4 - Support Vector Regression](part2-regression/section4-support-vector-regression/support_vector_regression.ipynb)
+    - [Secção 5 - Decision Tree Regression](part2-regression/section5-decision-tree-regression/decision_tree_regression.ipynb)
