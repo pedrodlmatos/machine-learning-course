@@ -15,3 +15,5 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 5 - Decision Tree Regression](part2-regression/section5-decision-tree-regression/decision_tree_regression.ipynb)
     - [Secção 6 - Random Forest Regression](part2-regression/section6-random-forest-regression/random_forest_regression.ipynb)
     - [Secção 7 - Model Selection](part2-regression/section7-model-selection)
+ - [Parte 3 - Classification](part3-classification)
+    - [Secção 1 - Logistic Regression](part3-classification/section1-logistic-regression/logistic_regression.ipynb)
