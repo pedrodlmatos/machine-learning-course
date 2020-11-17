@@ -17,3 +17,5 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 7 - Model Selection](part2-regression/section7-model-selection)
  - [Parte 3 - Classification](part3-classification)
     - [Secção 1 - Logistic Regression](part3-classification/section1-logistic-regression/logistic_regression.ipynb)
+    - [Secção 2 - K-Nearest Neighbors](part3-classification/section2-k-nearest-neighbors/k_nearest_neighbors.ipynb)
+    - [Secção 3 - Support Vector Machine](part3-classification/section3-support-vector-machine/support_vector_machine.ipynb)
