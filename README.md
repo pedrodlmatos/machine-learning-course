@@ -21,3 +21,4 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 2 - K-Nearest Neighbors](part3-classification/section2-k-nearest-neighbors/k_nearest_neighbors.ipynb)
     - [Secção 3 - Support Vector Machine](part3-classification/section3-support-vector-machine/support_vector_machine.ipynb)
     - [Secção 4 - Kernel SVM](part3-classification/section4-kernel-svm/kernel_svm.ipynb)
+    - [Secção 5 - Naive Bayes](part3-classification/section5-naive-bayes/naive-bayes.ipynb)
