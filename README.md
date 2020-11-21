@@ -22,3 +22,5 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 3 - Support Vector Machine](part3-classification/section3-support-vector-machine/support_vector_machine.ipynb)
     - [Secção 4 - Kernel SVM](part3-classification/section4-kernel-svm/kernel_svm.ipynb)
     - [Secção 5 - Naive Bayes](part3-classification/section5-naive-bayes/naive-bayes.ipynb)
+    - [Secção 6 - Decision Tree Classification](part3-classification/section6-decision-tree-classification/decision_tree_classification.ipynb)
+    - [Secção 7- Random Forest Classification](part3-classification/section7-random-forest-classification/random_forest_classification.ipynb)

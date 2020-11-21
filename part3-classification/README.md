@@ -12,5 +12,5 @@ Notebooks com modelos de regressão desenvolvidos
  - [Support Vector Machine](section3-support-vector-machine/support_vector_machine.ipynb)
  - [Kernel SVM](section4-kernel-svm/kernel_svm.ipynb)
  - [Naive Bayes](section5-naive-bayes/naive-bayes.ipynb)
- - [Random Forest Regression](section6-random-forest-regression/random_forest_regression.ipynb)
- - [Model Selection](section7-model-selection)
+ - [Decision Tree Classification](section6-decision-tree-classification/decision_tree_classification.ipynb)
+ - [Random Forest Classification](section7-random-forest-classification/random_forest_classification.ipynb)
