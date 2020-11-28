@@ -2,7 +2,7 @@
 
 ## Parte 3 - Classificadores
 
-Notebooks com modelos de regressão desenvolvidos
+Notebooks com modelos de classificação desenvolvidos
 
 ## Conteúdos desenvolvidos
 
@@ -14,3 +14,4 @@ Notebooks com modelos de regressão desenvolvidos
  - [Naive Bayes](section5-naive-bayes/naive-bayes.ipynb)
  - [Decision Tree Classification](section6-decision-tree-classification/decision_tree_classification.ipynb)
  - [Random Forest Classification](section7-random-forest-classification/random_forest_classification.ipynb)
+ - [Model Selection](section8-model-selection)

@@ -23,4 +23,7 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 4 - Kernel SVM](part3-classification/section4-kernel-svm/kernel_svm.ipynb)
     - [Secção 5 - Naive Bayes](part3-classification/section5-naive-bayes/naive-bayes.ipynb)
     - [Secção 6 - Decision Tree Classification](part3-classification/section6-decision-tree-classification/decision_tree_classification.ipynb)
-    - [Secção 7- Random Forest Classification](part3-classification/section7-random-forest-classification/random_forest_classification.ipynb)
+    - [Secção 7 - Random Forest Classification](part3-classification/section7-random-forest-classification/random_forest_classification.ipynb)
+    - [Secção 8 - Model Selection](part3-classification/section8-model-selection)
+ - [Parte 4 - Clustering](part4-clustering)
+    - [Secção 1 - K-Means Clustering](part4-clustering/section1-k-means-clustering/k_means_clustering.ipynb)
