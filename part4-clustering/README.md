@@ -7,3 +7,4 @@ Notebooks com modelos de clustering desenvolvidos
 ## Conteúdos desenvolvidos
 
  - [K-Means Clustering](section1-k-means-clustering/k_means_clustering.ipynb)
+ - [Hierarchical Clustering](section2-hierarchical-clustering/hierarchical_clustering.ipynb)
