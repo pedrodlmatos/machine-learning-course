@@ -28,3 +28,5 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
  - [Parte 4 - Clustering](part4-clustering)
     - [Secção 1 - K-Means Clustering](part4-clustering/section1-k-means-clustering/k_means_clustering.ipynb)
     - [Secção 2 - Hierarchical Clustering](part4-clustering/section2-hierarchical-clustering/hierarchical_clustering.ipynb)
+ - [Parte 5 - Association Rules](part5-association-rules-learning)
+    - [Secção 1 - Apriori](part5-association-rules-learning/section1-apriori/apriori.ipynb)   
