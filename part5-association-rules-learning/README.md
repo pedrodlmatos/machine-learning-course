@@ -7,3 +7,4 @@ Notebooks com modelos de association rules desenvolvidos
 ## Conteúdos desenvolvidos
 
  - [Apriori](section1-apriori/apriori.ipynb)
+ - [Eclat](section2-eclat/eclat.ipynb)

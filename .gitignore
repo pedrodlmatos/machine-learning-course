@@ -9,3 +9,8 @@ __init__.py
 
 # Jupyter Notebook
 .ipynb_checkpoints
+part2-regression/section7-model-selection/best_regression_model.ipynb
+
+part2-regression/section7-model-selection/notebook.ipynb
+
+part3-classification/section8-model-selection/best_model.ipynb
