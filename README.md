@@ -32,4 +32,6 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 1 - Apriori](part5-association-rules-learning/section1-apriori/apriori.ipynb)
     - [Secção 2 - Eclat](part5-association-rules-learning/section2-eclat/eclat.ipynb)
  - [Parte 6 - Reinforcement Learning](part6-reinforcement-learning)
-    - [Secção 1 - Upper Confidence Bound](part6-reinforcement-learning/section1-upper-confidence-bound/upper_confidence_bound.ipynb)   
+    - [Secção 1 - Upper Confidence Bound](part6-reinforcement-learning/section1-upper-confidence-bound/upper_confidence_bound.ipynb)
+    - [Secção 2 - Thompson Sampling](part6-reinforcement-learning/section2-thompson-sampling/thompson_sampling.ipynb)
+       
