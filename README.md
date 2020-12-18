@@ -34,4 +34,6 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
  - [Parte 6 - Reinforcement Learning](part6-reinforcement-learning)
     - [Secção 1 - Upper Confidence Bound](part6-reinforcement-learning/section1-upper-confidence-bound/upper_confidence_bound.ipynb)
     - [Secção 2 - Thompson Sampling](part6-reinforcement-learning/section2-thompson-sampling/thompson_sampling.ipynb)
+ - [Parte 7 - Natural Language Processing](part7-natural-language-processing)
+   - [Secção 1 - Bag of Words](part7-natural-language-processing/natural_language_processing.ipynb)
        
