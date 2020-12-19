@@ -36,4 +36,5 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
     - [Secção 2 - Thompson Sampling](part6-reinforcement-learning/section2-thompson-sampling/thompson_sampling.ipynb)
  - [Parte 7 - Natural Language Processing](part7-natural-language-processing)
    - [Secção 1 - Bag of Words](part7-natural-language-processing/section1-bag-of-words/natural_language_processing.ipynb)
+   - [Bonus - NLP with BERT](part7-natural-language-processing/bonus-npl-with-bert/npl_with_bert.ipynb)
        
