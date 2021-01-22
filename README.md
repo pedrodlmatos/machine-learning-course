@@ -15,4 +15,4 @@ Notebooks dos modelos de machine learning desenvolvidos nas aulas do curso [Mach
  - [Parte 7 - Natural Language Processing](part7-natural-language-processing)
  - [Parte 8 - Deep Learning](part8-deep-learning)
  - [Parte 9 - Dimensionality Reduction](part9-dimensionality-reduction)
- - [Parte 10 - Model Selection and XGBoost](part10-model-selection-xgboost)
+ - [Parte 10 - Model Selection and XGBoost](part10-model-selection-boosting)
